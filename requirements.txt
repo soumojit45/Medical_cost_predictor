@@ -1,4 +1,5 @@
 streamlit
+streamlit-lottie
 numpy
 pandas
 scikit-learn
